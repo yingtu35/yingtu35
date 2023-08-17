@@ -8,11 +8,11 @@ I enjoy coding, and my skills build around mobile📱 and web🖥 development, b
 <div>
 
   My current tech stack includes:
-  - Programming Languages: <img src="icons/python.png" alt="Python" width="25" height="25">, <img src="icons/javascript.png" alt="JavaScript" width="25" height="25">, Java (learning), C++ (learning)
-  - Mobile and Web Development: <img src="icons/reactjs.png" alt="React" width="25" height="25">, <img src="icons/react-native.png" alt="React Native" width="25" height="25">, <img src="icons/expressjs.png" alt="Express.js" width="25" height="25">, <img src="icons/nodejs.png" alt="Node.js" width="25" height="25">, <img src="icons/flask.png" alt="Flask" width="25" height="25">
-  - Database: <img src="icons/mysql.png" alt="MySQL" width="25" height="25">, <img src="icons/mongodb.png" alt="MongoDB" width="25" height="25">
-  - Version Control: <img src="icons/git.png" alt="Git" width="25" height="25">
-  - CI/CD: <img src="icons/github-actions.png" alt="GitHub Actions" width="25" height="25">, <img src="icons/docker.png" alt="Docker" width="25" height="25">
+  - Programming Languages: <img src="icons/python.png" alt="Python" width="40" height="40">, <img src="icons/javascript.png" alt="JavaScript" width="40" height="40">, Java (learning), C++ (learning)
+  - Mobile and Web Development: <img src="icons/reactjs.png" alt="React" width="40" height="40">, <img src="icons/react-native.png" alt="React Native" width="40" height="40">, <img src="icons/expressjs.png" alt="Express.js" width="40" height="40">, <img src="icons/nodejs.png" alt="Node.js" width="40" height="40">, <img src="icons/flask.png" alt="Flask" width="40" height="40">
+  - Database: <img src="icons/mysql.png" alt="MySQL" width="40" height="40">, <img src="icons/mongodb.png" alt="MongoDB" width="40" height="40">
+  - Version Control: <img src="icons/git.png" alt="Git" width="40" height="40">
+  - CI/CD: <img src="icons/github-actions.png" alt="GitHub Actions" width="40" height="40">, <img src="icons/docker.png" alt="Docker" width="40" height="40">
   - Cloud Services: learning Google Cloud...
 </div>
 
