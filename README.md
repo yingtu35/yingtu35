@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div>
   <br/>
-  <a href="yingtu35.github.io">
+  <a href="https://yingtu35.github.io/">
     <img src="icons/yingtu.png" alt="Instagram" width="50" height="50">
   </a>
   <a href="https://github.com/yingtu35">
