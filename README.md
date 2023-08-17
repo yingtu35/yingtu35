@@ -2,7 +2,7 @@
   <h3>Hi there 👋, Meet yingtu35!</h3>
 </div>
 
-Hello👋 My name is Ying Tu. I am a computer science graduate student at University of Southern California. Fight On! ✊
+Hello👋 My name is Ying Tu. I am a computer science graduate student at University of Southern California. Fight On! ✊ <br/>
 I enjoy coding, and my skills build around mobile📱 and web🖥 development, because I want to become a pro software developer!
 
 <div>
@@ -13,7 +13,7 @@ I enjoy coding, and my skills build around mobile📱 and web🖥 development, b
   - Database: <img src="icons/mysql.png" alt="MySQL" width="25" height="25">, <img src="icons/mongodb.png" alt="MongoDB" width="25" height="25">
   - Version Control: <img src="icons/git.png" alt="Git" width="25" height="25">
   - CI/CD: <img src="icons/github-actions.png" alt="GitHub Actions" width="25" height="25">, <img src="icons/docker.png" alt="Docker" width="25" height="25">
-  - Cloud Services: Currently learning Google Cloud...
+  - Cloud Services: learning Google Cloud...
 </div>
 
 Here are some ideas to get you started:
