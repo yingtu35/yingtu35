@@ -3,7 +3,10 @@
 </div>
 
 Hello👋 My name is Ying Tu. I am a computer science graduate student at University of Southern California. Fight On! ✊ <br/>
-I enjoy coding and problem solving, and my skills build around web🖥, mobile📱 development, and cloud computing.
+I am a software engineer who is passionate about building real-world projects and solving real-world problems. <br/>
+I enjoy coding and problem solving, and my skills build around web🖥, mobile📱 development, and cloud computing. <br/>
+I previously worked as a software engineer intern at <a href="https://www.appier.com/en/">Appier</a> and <a href="https://www.gbcsgroup.com/">GBCS Group</a>.<br/>
+I am currently looking for internship opportunities in software engineering, web development, and cloud computing. <br/> If you are interested in my profile, please feel free to reach out to me! <br/>
 
 <div>
 
@@ -17,8 +20,8 @@ I enjoy coding and problem solving, and my skills build around web🖥, mobile�
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building real-world projects!
-- 🌱 I’m taking AWS Solution Architect in near future!
+- 🔭 I’m currently working on refining the Gmail Cleaning Scheduler project!
+- 🌱 Brainstorming a new AI project...
 - 🤔 I’m looking for internship opportunities😂
 - 💬 Ask me about everything about me!
 - 📫 How to reach me: check out my social media link below
