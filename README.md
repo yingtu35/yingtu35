@@ -3,14 +3,15 @@
   <h1 align="center" style="border-bottom: 1px solid #e1e4e8; padding-bottom: 10px;">Hi there 👋, Meet yingtu35!</h1>
 </div>
 
-Hello👋 My name is Ying Tu. I am a computer science graduate student at University of Southern California. Fight On! ✊ <br/>
+Hello👋 My name is <strong>Ying Tu</strong>. I am a CS graduate student at University of Southern California. Fight On! ✊ <br/>
 I am a software engineer who is passionate about building real-world projects and solving real-world problems. <br/>
 I enjoy coding and problem solving, and my skills build around web🖥, mobile📱 development, and cloud computing. <br/>
-I previously worked as a software engineer intern at <a href="https://about.mercari.com/en/">Mercari</a>, <a href="https://www.appier.com/en/">Appier</a> and <a href="https://www.gbcsgroup.com/">GBCS Group</a>.<br/>
-I am currently looking for internship opportunities in software engineering, web development, and cloud computing. <br/> If you are interested in my profile, please feel free to reach out to me! <br/>
+
+Currently work as a frontend engineer intern at <a href="https://crypto-arsenal.io/">Crypto Arsenal</a>. Previously, I also interned at <a href="https://about.mercari.com/en/">Mercari</a>, <a href="https://www.appier.com/en/">Appier</a> and <a href="https://www.gbcsgroup.com/">GBCS Group</a>.<br/>
+I am currently looking for 2026 new grad opportunities in software engineering, web development, and cloud computing. <br/> If you are interested in my profile, please feel free to reach out to me! <br/>
 
 - 🌱 Brainstorming new project...
-- 🤔 I'm looking for **2025 summer internship** opportunities😂
+- 🤔 I'm looking for **2026 new grad roles** opportunities😂
 - 💬 Ask me about everything about me!
 - 📫 How to reach me: check out my social media link below
 - 😄 Pronouns: He/Him
